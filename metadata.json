@@ -1,0 +1,7 @@
+{
+  "name": "CREDO",
+  "description": "A high-fidelity fintech prototype featuring a unique Spending Psychology module that analyzes behavioral drivers like Impulse Buys and Dopamine Seeking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
